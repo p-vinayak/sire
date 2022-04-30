@@ -1,0 +1,8 @@
+FROM node:17
+WORKDIR /sire-client
+COPY package.json yarn.lock ./
+COPY . .
+RUN yarn install
+RUN yarn build
+EXPOSE 3000
+CMD ["yarn", "start"]
