@@ -4,7 +4,7 @@ Sire is a file sharing service. This README shows how to set it up using docker-
 
 ## Purpose
 
-This project was created for my capstone course at my university. While it is not extremely complex in its functionality, the project has allowed me to familiarize myself with various software engineering concepts such as client-server architecture, docker, TDD (postman), sprints, and MVC architecture. The code is also written with readability, extensibility, and maintainability in mind. All code is also thoroughly tested.
+This project was created as a project to familiarize myself with some important software engineering concepts. While it is not extremely complex in its functionality, the project has allowed me to familiarize myself with various software engineering concepts such as client-server architecture, docker, TDD (postman), sprints, and MVC architecture. The code is also written with readability, extensibility, and maintainability in mind. All code is also thoroughly tested.
 
 To discover my other projects, please visit my portfolio.
 
